@@ -1,0 +1,14 @@
+certifi==2025.4.26
+cffi==1.17.1
+charset-normalizer==3.4.1
+click==8.1.8
+colorama==0.4.6
+gTTS==2.5.4
+idna==3.10
+numpy==2.2.5
+pycparser==2.22
+requests==2.32.3
+scipy==1.15.2
+sounddevice==0.5.1
+urllib3==2.4.0
+torchaudio==2.7.0
