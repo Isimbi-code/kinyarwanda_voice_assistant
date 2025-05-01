@@ -13,15 +13,6 @@ A simple voice assistant that listens to Kinyarwanda audio, transcribes it, matc
 
 ---
 
-## 📁 Folder Structure
-
-kinyarwanda_voice_assistant/ 
-├── audio/ # Input audio (.wav) files 
-├── outputs/ # Output response audios 
-├── main.py # ASR + NLP + TTS pipeline 
-├── .env # Your Hugging Face token 
-└── README.md # Project info
-
 
 
 ---
